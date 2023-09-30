@@ -10,7 +10,7 @@
     "watch": "parcel watch",
     "build": "parcel build"
   },
-  "author": "Arbaz Hussain",
+  "author": "tejaswi",
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
